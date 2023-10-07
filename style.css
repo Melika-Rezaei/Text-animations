@@ -1,0 +1,14 @@
+*{
+    background: rgb(238, 180, 122);
+    text-align:center;
+}
+p{
+    font-size: 15vw;
+    text-shadow: 4px 4px 2px blueviolet , 8px 8px 3px red , 12px 12px 3px green;
+    font-family: bnazanin;
+}
+@font-face {
+    font-family: 'bnazanin';
+    src: url(fonts/BNazanin.ttf) ;
+
+}
